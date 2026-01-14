@@ -1,4 +1,4 @@
-# Distributed Task Queue 
+# Task Queue 
 
 This is a lightweight background job processing system written in Go and uses Redis to manage the queues.
 It supports workers, delayed retries, exponential backoff with jitter, and a dead-letter queue — all implemented from scratch for learning and experimentation.
